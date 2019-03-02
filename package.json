@@ -11,7 +11,7 @@
 	"engines": {
 		"node": "8.11.2"
 	},
-
+"keywords": [ "freecodecamp", "related", "words" ],
 	"description": "A project that does something awesome",
 	"repository": {
 		"type": "git",
